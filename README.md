@@ -1,5 +1,5 @@
 # Hi, I'm Marco Castro
-### FrontEnd Developer
+### IT Engineer - FrontEnd Developer - Tech Entusiast
 
 ## About Me
 Information Technology Engineer, with advanced knowledge in Front End and Web Development. Interested in Data Science and Artificial Intelligence. I have the ability to teamwork, effective and assertive communication, availability to learn and improve, as well as interest in problem solving.
