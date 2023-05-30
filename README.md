@@ -13,7 +13,7 @@ Information Technology Engineer, with advanced knowledge in Front End and Web De
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](#)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](#)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](#)
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
 [![SQL](https://img.shields.io/badge/SQL-73B8BD?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
@@ -24,9 +24,9 @@ Information Technology Engineer, with advanced knowledge in Front End and Web De
 ... and additional ones.
 
 ## Links:
-[![Website](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://marcocastroportfolio.netlify.app)
-[![GitLab](https://img.shields.io/badge/GitLab-@MarcoCastro417-DF8E12?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/MarcoCastro417)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcocastroportfolio.netlify.app)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MarcoCastro417)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@ingmarcodev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingmarcodev/)
 
 ## Contact:
-[![Email](https://img.shields.io/badge/ingcastrodev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ingcastrodev@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingcastrodev@gmail.com)
