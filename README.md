@@ -17,9 +17,9 @@ Information Technology Engineer, with advanced knowledge in Front End and Web De
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
 [![SQL](https://img.shields.io/badge/SQL-73B8BD?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
-[![GIT](https://img.shields.io/badge/GIT-DF7E5D?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
 </br>
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8C659C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
+[![GIT](https://img.shields.io/badge/GIT-DF7E5D?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
 </br>
 ... and additional ones.
 
