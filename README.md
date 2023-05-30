@@ -26,7 +26,7 @@ Information Technology Engineer, with advanced knowledge in Front End and Web De
 ## Links:
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://marcocastroportfolio.netlify.app)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MarcoCastro417)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ingmarcodev-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingmarcodev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ingmarcodev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ingmarcodev/)
 
 ## Contact:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ingcastrodev@gmail.com)
