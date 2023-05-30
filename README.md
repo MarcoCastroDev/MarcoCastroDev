@@ -9,6 +9,7 @@ Information Technology Engineer, with advanced knowledge in Front End and Web De
 [![HTML](https://img.shields.io/badge/HTML-999999?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS](https://img.shields.io/badge/CSS-FA7343?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
+[![React](https://img.shields.io/badge/style=flat--square&logo=react&label=React&color=blue&labelColor=white)](#)
 </br>
 [![SQL](https://img.shields.io/badge/SQL-73B8BD?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](#)
 [![GIT](https://img.shields.io/badge/GIT-DF7E5D?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](#)
