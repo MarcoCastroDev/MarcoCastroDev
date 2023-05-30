@@ -12,7 +12,7 @@ Information Technology Engineer, with advanced knowledge in Front End and Web De
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)](#)
 </br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&labelColor=101010)](#) ![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](#)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](#)
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](#)
